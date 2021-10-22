@@ -11,6 +11,6 @@ Source is on [https://domainaware.github.io/parsedmarc/](https://domainaware.git
 
 ## What do I need to run it?
 
-You can get the docker image here: [ghcr.io/jdeluyck/parsedmarc](ghcr.io/jdeluyck/parsedmarc)
+You can get the docker image here: [https://github.com/jdeluyck/parsedmarc/pkgs/container/parsedmarc](https://github.com/jdeluyck/parsedmarc/pkgs/container/parsedmarc)
 
 There's one volume to mount, to /config. This will give you access to the GeoIP.conf and parsedmarc.ini files.
